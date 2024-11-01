@@ -10,6 +10,9 @@
     <style>
         body {
             background-color: #f8f9fa;
+            
+            
+            
         }
         .about-card {
             transition: transform 0.3s, box-shadow 0.3s;
